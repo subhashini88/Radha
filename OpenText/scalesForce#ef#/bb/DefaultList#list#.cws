@@ -145,11 +145,7 @@
 			<UsedProperties/>
 		</EntityExpression>
 	</FilterCriteria>
-	<Layout>
-		<uri
-			id="ee9ca1d7-be14-a1ee-a667-3977c55c9579"
-		/>
-	</Layout>
+	<Layout/>
 	<LocalizableCategoryLabel/>
 	<Original/>
 	<UsesAssociation>
