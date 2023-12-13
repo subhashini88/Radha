@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-1aaa0d68092e">
 	<DocumentID>4af02fff-aa46-a1ee-a667-1aaa0c9d892e</DocumentID>
-	<Name>OpenText</Name>
-	<Description>OpenText</Description>
+	<Name>OpenTexthyd</Name>
+	<Description>OpenTexthyd</Description>
 	<CreatedBy>full1@full</CreatedBy>
 	<CreationDate>2023-12-13T09:45:57.855</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="4af02fff-aa46-a1ee-a667-1aaa15a1092e"
-			path="OpenText"
+			path="OpenTexthyd"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="4af02fff-aa46-a1ee-a667-1aaa129f092e"
-							path="OpenText/en-US_4af02fff-aa46-a1ee-a667-1aaa129f092e"
+							path="OpenTexthyd/en-US_4af02fff-aa46-a1ee-a667-1aaa129f092e"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="4af02fff-aa46-a1ee-a667-1aaa10ad892e"
-					path="OpenText/TranslationInformation_4af02fff-aa46-a1ee-a667-1aaa10ad892e"
+					path="OpenTexthyd/TranslationInformation_4af02fff-aa46-a1ee-a667-1aaa10ad892e"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>

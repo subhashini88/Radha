@@ -38,7 +38,59 @@
 		/>
 	</BuildingBlock>
 	<CardViewConfiguration/>
-	<ChartViewConfigurations/>
+	<ChartViewConfigurations>
+		<ChartViewConfiguration
+			type="com.cordys.entity.buildingblocks.worklist.ChartViewConfiguration"
+			RuntimeDocumentID="ee9ca1d7-be14-a1ee-a665-a624a9ea3a03">
+			<DocumentID>ee9ca1d7-be14-a1ee-a665-a624a9abba03</DocumentID>
+			<Name>ee9ca1d7be14a1eea665a624a9abba03_chartview_Association</Name>
+			<Description>ee9ca1d7be14a1eea665a624a9abba03_chartview_Association</Description>
+			<CreatedBy>full1@full</CreatedBy>
+			<CreationDate>2023-12-13T09:53:40.858</CreationDate>
+			<Notes/>
+			<AggregatorName></AggregatorName>
+			<RendererName></RendererName>
+			<AggregatorAssociation>
+				<AggregatorAssociation
+					type="com.cordys.entity.buildingblocks.worklist.AggregatorAssociation"
+					RuntimeDocumentID="ee9ca1d7-be14-a1ee-a665-a624a92eba03">
+					<DocumentID>ee9ca1d7-be14-a1ee-a665-a624a8f03a03</DocumentID>
+					<Name>ee9ca1d7be14a1eea665a624a8f03a03_aggregator_Association</Name>
+					<Description>ee9ca1d7be14a1eea665a624a8f03a03_aggregator_Association</Description>
+					<CreatedBy>full1@full</CreatedBy>
+					<CreationDate>2023-12-13T09:53:40.859</CreationDate>
+					<Notes/>
+					<Aggregator/>
+				</AggregatorAssociation>
+			</AggregatorAssociation>
+			<XAxisAssociation>
+				<XAxisAssociation
+					type="com.cordys.entity.buildingblocks.worklist.XAxisAssociation"
+					RuntimeDocumentID="ee9ca1d7-be14-a1ee-a665-a624a88c3a03">
+					<DocumentID>ee9ca1d7-be14-a1ee-a665-a624a84dba03</DocumentID>
+					<Name>ee9ca1d7be14a1eea665a624a84dba03_xAxis_Association</Name>
+					<Description>ee9ca1d7be14a1eea665a624a84dba03_xAxis_Association</Description>
+					<CreatedBy>full1@full</CreatedBy>
+					<CreationDate>2023-12-13T09:53:40.859</CreationDate>
+					<Notes/>
+					<XAxis/>
+				</XAxisAssociation>
+			</XAxisAssociation>
+			<YAxisAssociation>
+				<YAxisAssociation
+					type="com.cordys.entity.buildingblocks.worklist.YAxisAssociation"
+					RuntimeDocumentID="ee9ca1d7-be14-a1ee-a665-a624a80cba03">
+					<DocumentID>ee9ca1d7-be14-a1ee-a665-a624a7c1ba03</DocumentID>
+					<Name>ee9ca1d7be14a1eea665a624a7c1ba03_yAxis_Association</Name>
+					<Description>ee9ca1d7be14a1eea665a624a7c1ba03_yAxis_Association</Description>
+					<CreatedBy>full1@full</CreatedBy>
+					<CreationDate>2023-12-13T09:53:40.859</CreationDate>
+					<Notes/>
+					<YAxis/>
+				</YAxisAssociation>
+			</YAxisAssociation>
+		</ChartViewConfiguration>
+	</ChartViewConfigurations>
 	<ConditionalCountCriteria/>
 	<CreatableAssociations/>
 	<DisplayName>
@@ -112,80 +164,5 @@
 			<Notes/>
 		</UsesAssociation>
 	</UsesAssociation>
-	<WorklistColumns>
-		<WorklistColumn
-			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
-			RuntimeDocumentID="ee9ca1d7-be14-a1ee-a667-3977bf4e9579">
-			<DocumentID>ee9ca1d7-be14-a1ee-a667-3977befc1579</DocumentID>
-			<Name>Untitled WorklistColumn</Name>
-			<Description>Untitled WorklistColumn</Description>
-			<CreatedBy>occa1@occa</CreatedBy>
-			<CreationDate>2023-12-13T09:51:39.808</CreationDate>
-			<Notes/>
-			<ColumnAlignment>0</ColumnAlignment>
-			<ColumnLabel></ColumnLabel>
-			<DataType>Text</DataType>
-			<DefaultSortType>0</DefaultSortType>
-			<Definition></Definition>
-			<FormatterName>resultSimple</FormatterName>
-			<HiddenInResult>false</HiddenInResult>
-			<InForm>true</InForm>
-			<IsComputedProperty>false</IsComputedProperty>
-			<ItemMemberId>ee9ca1d7-be14-a1ee-a667-3892150a3293</ItemMemberId>
-			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>Untitled_Entity</OwnerName>
-			<PropertyId>ee9ca1d7-be14-a1ee-a667-3892148fb293</PropertyId>
-			<PropertyName>No</PropertyName>
-			<StaticPropertyId></StaticPropertyId>
-			<ItemMemberPropertyPath>
-				<PropertyObjectPath
-					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="ee9ca1d7-be14-a1ee-a667-3977beb39579">
-					<DocumentID>ee9ca1d7-be14-a1ee-a667-3977be779579</DocumentID>
-					<Name>ee9ca1d7-be14-a1ee-a667-3977be779579</Name>
-					<Description>ee9ca1d7-be14-a1ee-a667-3977be779579</Description>
-					<CreatedBy>occa1@occa</CreatedBy>
-					<CreationDate>2023-12-13T09:51:39.816</CreationDate>
-					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
-					<Object>
-						<uri
-							id="ee9ca1d7-be14-a1ee-a667-389214513293"
-						/>
-					</Object>
-					<ObjectOwner>
-						<uri
-							id="ee9ca1d7-be14-a1ee-a667-3977c2d51579"
-						/>
-					</ObjectOwner>
-					<PathBegin>
-						<uri
-							id="4af02fff-aa46-a1ee-a666-0ad9cba40eb0"
-						/>
-					</PathBegin>
-					<PathEnd>
-						<uri
-							id="ee9ca1d7-be14-a1ee-a667-389214513293"
-						/>
-					</PathEnd>
-					<RootOwner>
-						<uri
-							id="4af02fff-aa46-a1ee-a666-0ad9cba40eb0"
-						/>
-					</RootOwner>
-				</PropertyObjectPath>
-			</ItemMemberPropertyPath>
-			<Layout/>
-			<LocalizableColumnLabel/>
-			<Property>
-				<uri
-					id="ee9ca1d7-be14-a1ee-a667-389214513293"
-				/>
-			</Property>
-			<WorklistDateFormat/>
-			<WorklistDateTimeFormat/>
-		</WorklistColumn>
-	</WorklistColumns>
+	<WorklistColumns/>
 </Worklist>
