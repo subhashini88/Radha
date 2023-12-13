@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95e9dbb88eb0">
+	<DocumentID>4af02fff-aa46-a1ee-a667-95e9db7c8eb0</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-95e9db7c8eb0</Name>
+	<Description>Paused</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:53.344</CreationDate>
+	<Notes/>
+	<Text>Paused</Text>
+	<Language>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa11e3892e"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95e9db020eb0"
+		/>
+	</TextIdentifier>
+</TranslatedText>

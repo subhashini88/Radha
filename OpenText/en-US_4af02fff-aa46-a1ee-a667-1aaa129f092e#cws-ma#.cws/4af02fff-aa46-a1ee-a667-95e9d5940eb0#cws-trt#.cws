@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95e9d5f30eb0">
+	<DocumentID>4af02fff-aa46-a1ee-a667-95e9d5940eb0</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-95e9d5940eb0</Name>
+	<Description>Internal_Pause</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:53.422</CreationDate>
+	<Notes/>
+	<Text>Internal_Pause</Text>
+	<Language>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa11e3892e"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95e9d5148eb0"
+		/>
+	</TextIdentifier>
+</TranslatedText>

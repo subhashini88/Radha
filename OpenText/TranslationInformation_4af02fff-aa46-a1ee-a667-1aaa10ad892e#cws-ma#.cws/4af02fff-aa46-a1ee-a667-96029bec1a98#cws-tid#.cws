@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-96029c281a98">
+	<DocumentID>4af02fff-aa46-a1ee-a667-96029bec1a98</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-96029bec1a98</Name>
+	<Description>Acknowledge</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:53.322</CreationDate>
+	<Notes/>
+	<DefaultText>Acknowledge</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa0fc2892e"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-96029c641a98"
+		/>
+	</Translations>
+</TextIdentifier>

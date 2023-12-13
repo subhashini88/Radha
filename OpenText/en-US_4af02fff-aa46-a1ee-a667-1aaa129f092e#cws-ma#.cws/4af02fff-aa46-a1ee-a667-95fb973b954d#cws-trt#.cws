@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95fb977a154d">
+	<DocumentID>4af02fff-aa46-a1ee-a667-95fb973b954d</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-95fb973b954d</Name>
+	<Description>IsPrivateTask</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:56.485</CreationDate>
+	<Notes/>
+	<Text>IsPrivateTask</Text>
+	<Language>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa11e3892e"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95fb96be954d"
+		/>
+	</TextIdentifier>
+</TranslatedText>

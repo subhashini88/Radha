@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95d2f1fd2579">
+	<DocumentID>4af02fff-aa46-a1ee-a667-95d2f1aaa579</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-95d2f1aaa579</Name>
+	<Description>Pending</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:56.491</CreationDate>
+	<Notes/>
+	<DefaultText>Pending</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa0fc2892e"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95d2f2752579"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95ef65453b42">
+	<DocumentID>4af02fff-aa46-a1ee-a667-95ef65043b42</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-95ef65043b42</Name>
+	<Description>Low</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:53.311</CreationDate>
+	<Notes/>
+	<DefaultText>Low</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa0fc2892e"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95ef65813b42"
+		/>
+	</Translations>
+</TextIdentifier>

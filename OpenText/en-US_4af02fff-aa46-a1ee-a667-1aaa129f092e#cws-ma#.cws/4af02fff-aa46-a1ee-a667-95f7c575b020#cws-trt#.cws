@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95f7c5b1b020">
+	<DocumentID>4af02fff-aa46-a1ee-a667-95f7c575b020</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-95f7c575b020</Name>
+	<Description>Delete Flag</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:53.398</CreationDate>
+	<Notes/>
+	<Text>Delete Flag</Text>
+	<Language>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa11e3892e"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95f7c4f8b020"
+		/>
+	</TextIdentifier>
+</TranslatedText>

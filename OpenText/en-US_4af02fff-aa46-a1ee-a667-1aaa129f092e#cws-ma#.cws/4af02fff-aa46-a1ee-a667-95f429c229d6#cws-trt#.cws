@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95f42a0fa9d6">
+	<DocumentID>4af02fff-aa46-a1ee-a667-95f429c229d6</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-95f429c229d6</Name>
+	<Description>Inbox Model Id</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:53.419</CreationDate>
+	<Notes/>
+	<Text>Inbox Model Id</Text>
+	<Language>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa11e3892e"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95f42924a9d6"
+		/>
+	</TextIdentifier>
+</TranslatedText>

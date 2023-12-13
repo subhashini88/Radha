@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95f4250329d6">
+	<DocumentID>4af02fff-aa46-a1ee-a667-95f424c729d6</DocumentID>
+	<Name>4af02fff-aa46-a1ee-a667-95f424c729d6</Name>
+	<Description>Exclusion List</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T09:59:53.378</CreationDate>
+	<Notes/>
+	<Text>Exclusion List</Text>
+	<Language>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa11e3892e"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95f4244a29d6"
+		/>
+	</TextIdentifier>
+</TranslatedText>

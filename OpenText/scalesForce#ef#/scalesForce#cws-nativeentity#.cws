@@ -27,6 +27,12 @@
 		<uri
 			id="ee9ca1d7-be14-a1ee-a667-389211ea3293"
 		/>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-5f4369588eb0"
+		/>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-95d6ade09a98"
+		/>
 	</BuildingBlocks>
 	<DBObject/>
 	<DisplayName/>
@@ -627,6 +633,126 @@
 				</Title>
 			</Title>
 		</TitleBuildingBlock>
+		<DynamicWorkflowBuildingBlock
+			type="com.cordys.entity.buildingblocks.dynamicworkflow.DynamicWorkflowBuildingBlock"
+			RuntimeDocumentID="4af02fff-aa46-a1ee-a667-5f4369970eb0">
+			<DocumentID>4af02fff-aa46-a1ee-a667-5f4369588eb0</DocumentID>
+			<Name>DynamicWorkflow</Name>
+			<Description>DynamicWorkflow</Description>
+			<CreatedBy>occa1@occa</CreatedBy>
+			<CreationDate>2023-12-13T09:59:53.355</CreationDate>
+			<Notes/>
+			<DynamicWorkflow/>
+			<Entity>
+				<uri
+					id="4af02fff-aa46-a1ee-a666-0ad9cba40eb0"
+				/>
+			</Entity>
+			<InlinedEntities/>
+			<Original/>
+			<OwnedActions>
+				<DynamicWorkflowAction
+					type="com.cordys.entity.buildingblocks.dynamicworkflow.DynamicWorkflowAction"
+					RuntimeDocumentID="02D0E70C15E94C7FA0C15790DD44BA6D">
+					<DocumentID>4af02fff-aa46-a1ee-a667-5f4368db8eb0</DocumentID>
+					<Name>StartWorkflow</Name>
+					<Description>Start workflow</Description>
+					<CreatedBy>occa1@occa</CreatedBy>
+					<CreationDate>2023-12-13T09:59:53.336</CreationDate>
+					<Notes/>
+				</DynamicWorkflowAction>
+			</OwnedActions>
+			<Properties/>
+			<Relationships>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="4af02fff-aa46-a1ee-a667-5f4368980eb0">
+					<DocumentID>4af02fff-aa46-a1ee-a667-5f4368480eb0</DocumentID>
+					<Name>DynamicWorkflows</Name>
+					<Description>DynamicWorkflows</Description>
+					<CreatedBy>occa1@occa</CreatedBy>
+					<CreationDate>2023-12-13T09:59:53.379</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>true</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>true</OwnsJoinTable>
+					<RelationshipType>ToChild</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="4af02fff-aa46-a1ee-a667-5f4369588eb0"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<ForeignKeyProperties/>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties/>
+					<Target>
+						<uri
+							id="4af02fff-aa46-a1ee-a667-95bc2f42961a"
+						/>
+					</Target>
+				</Relationship>
+			</Relationships>
+		</DynamicWorkflowBuildingBlock>
+		<TaskListBuildingBlock
+			type="com.cordys.entity.buildingblocks.tasklist.TaskListBuildingBlock"
+			typeVersion="FB748954-FAA0-4215-8848-E4A76DBEEC65"
+			RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95d6ae1c9a98">
+			<DocumentID>4af02fff-aa46-a1ee-a667-95d6ade09a98</DocumentID>
+			<Name>TaskList</Name>
+			<Description>TaskList</Description>
+			<CreatedBy>occa1@occa</CreatedBy>
+			<CreationDate>2023-12-13T09:59:53.343</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="4af02fff-aa46-a1ee-a666-0ad9cba40eb0"
+				/>
+			</Entity>
+			<InboxTask/>
+			<InlinedEntities/>
+			<Original/>
+			<Relationships>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="4af02fff-aa46-a1ee-a667-95d6ad9f9a98">
+					<DocumentID>4af02fff-aa46-a1ee-a667-95d6ad521a98</DocumentID>
+					<Name>LifecycleTask</Name>
+					<Description>LifecycleTask</Description>
+					<CreatedBy>occa1@occa</CreatedBy>
+					<CreationDate>2023-12-13T09:59:56.491</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>true</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>true</OwnsJoinTable>
+					<RelationshipType>ToChild</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="4af02fff-aa46-a1ee-a667-95d6ade09a98"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<ForeignKeyProperties/>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties/>
+					<Target>
+						<uri
+							id="4af02fff-aa46-a1ee-a667-95d6acd51a98"
+						/>
+					</Target>
+				</Relationship>
+			</Relationships>
+		</TaskListBuildingBlock>
 	</OwnedBuildingBlocks>
 	<ParentRelationship/>
 	<Supertype/>
