@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="4af02fff-aa46-a1ee-a667-1aaa0d68092e">
+	<DocumentID>4af02fff-aa46-a1ee-a667-1aaa0c9d892e</DocumentID>
+	<Name>Untitled Project</Name>
+	<Description>Untitled Project</Description>
+	<CreatedBy>full1@full</CreatedBy>
+	<CreationDate>2023-12-13T09:45:57.855</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="4af02fff-aa46-a1ee-a667-1aaa1718092e">
+			<DocumentID>4af02fff-aa46-a1ee-a667-1aaa16ca892e</DocumentID>
+			<Name>My Company Untitled Project</Name>
+			<Description>My Company Untitled Project</Description>
+			<CreatedBy>full1@full</CreatedBy>
+			<CreationDate>2023-12-13T09:45:57.854</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>My Company Untitled Project 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>My Company</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Untitled Project</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa15a1092e"
+			path="Untitled Project"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="4af02fff-aa46-a1ee-a667-1aaa101f092e">
+			<DocumentID>4af02fff-aa46-a1ee-a667-1aaa0fc2892e</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description/>
+			<CreatedBy>full1@full</CreatedBy>
+			<CreationDate>2023-12-13T09:45:57.854</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="4af02fff-aa46-a1ee-a667-1aaa1231092e">
+					<DocumentID>4af02fff-aa46-a1ee-a667-1aaa11e3892e</DocumentID>
+					<Name>en-US</Name>
+					<Description/>
+					<CreatedBy>full1@full</CreatedBy>
+					<CreationDate>2023-12-13T09:45:57.855</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="4af02fff-aa46-a1ee-a667-1aaa129f092e"
+							path="Untitled Project/en-US_4af02fff-aa46-a1ee-a667-1aaa129f092e"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="4af02fff-aa46-a1ee-a667-1aaa0fc2892e"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="4af02fff-aa46-a1ee-a667-1aaa11e3892e"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="4af02fff-aa46-a1ee-a667-1aaa10ad892e"
+					path="Untitled Project/TranslationInformation_4af02fff-aa46-a1ee-a667-1aaa10ad892e"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>
