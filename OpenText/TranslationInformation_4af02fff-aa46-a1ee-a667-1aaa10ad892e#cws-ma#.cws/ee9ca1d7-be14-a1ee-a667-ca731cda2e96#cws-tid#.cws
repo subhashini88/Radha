@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="ee9ca1d7-be14-a1ee-a667-ca731d2a2e96">
+	<DocumentID>ee9ca1d7-be14-a1ee-a667-ca731cda2e96</DocumentID>
+	<Name>ee9ca1d7-be14-a1ee-a667-ca731cda2e96</Name>
+	<Description>DiscussionNote</Description>
+	<CreatedBy>occa1@occa</CreatedBy>
+	<CreationDate>2023-12-13T10:08:07.464</CreationDate>
+	<Notes/>
+	<DefaultText>DiscussionNote</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="4af02fff-aa46-a1ee-a667-1aaa0fc2892e"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="ee9ca1d7-be14-a1ee-a667-ca731d7f2e96"
+		/>
+	</Translations>
+</TextIdentifier>
